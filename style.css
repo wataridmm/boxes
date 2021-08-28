@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.boxes {
+  width: 600px;
+  /*  この高さは適当↓　　*/
+  height: 120px;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+}
+.box1 {
+  width: 150px;
+  height: 400px;
+  background-color: orange;
+}
+.box2 {
+  width: 250px;
+  height: 400px;
+  background-color: red;
+}
