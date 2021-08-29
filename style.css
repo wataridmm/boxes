@@ -6,9 +6,8 @@
 
 .boxes {
   width: 600px;
-  /*  この高さは適当↓　　*/
-  height: 120px;
   background-color: yellow;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
 }
